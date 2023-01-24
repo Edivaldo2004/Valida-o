@@ -1,0 +1,27 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+    .msg-erro {
+      color: red;
+    }
+
+.form-group{
+  display: flex;
+  gap: 12px
+}
+
+.form-group2{
+  margin-top: 1%
+}
+
+.form-group3{
+  margin-top: 1%;
+    display: flex;
+  gap: 12px
+}
+
+.form-text{
+  margin-top: 1%;
+}
